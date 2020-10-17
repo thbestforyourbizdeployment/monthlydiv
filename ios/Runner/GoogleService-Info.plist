@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>974927800203-vr6n7md78tabl0k6sl6c1arkku8ji6oo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.974927800203-vr6n7md78tabl0k6sl6c1arkku8ji6oo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8Q3iyzEj0Bo8radUN9GdMAHDtA27fPAA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>974927800203</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vegaglobal.monthlydividends</string>
+	<key>PROJECT_ID</key>
+	<string>monthlydividends-4ea5f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>monthlydividends-4ea5f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:974927800203:ios:63db2a90001216edf7b18e</string>
+	<key>DATABASE_URL</key>
+	<string>https://monthlydividends-4ea5f.firebaseio.com</string>
+</dict>
+</plist>

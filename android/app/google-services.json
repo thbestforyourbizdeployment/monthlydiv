@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974927800203",
+    "firebase_url": "https://monthlydividends-4ea5f.firebaseio.com",
+    "project_id": "monthlydividends-4ea5f",
+    "storage_bucket": "monthlydividends-4ea5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974927800203:android:abdd95ef10aa8949f7b18e",
+        "android_client_info": {
+          "package_name": "vegaglobal.monthlydividends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974927800203-cquriqf5ao0g50jvombrp07hen2obv1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEm29-lAa7relIgnqR5c477IUayho7A8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974927800203-cquriqf5ao0g50jvombrp07hen2obv1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
